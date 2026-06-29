@@ -55,6 +55,3 @@ The workflow includes:
 
 DecodeLabs Data Analytics Intern
 
-**Precious Osuoha Chidiebube**
-
-DecodeLabs Data Analytics Intern
